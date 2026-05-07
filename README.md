@@ -74,12 +74,12 @@ Note: As headlines change daily, these percentages are subject to minor variatio
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/narrative-war.git
-   cd narrative-war
+   git clone https://github.com/Haniye-Rj/news-comparator-webscrapping.git
+   cd news-comparator-webscrapping
    ```
 2. Install dependencies:
    ```bash
-   pip install pandas matplotlib seaborn selenium beautifulsoup4 scrapy webdriver-manager
+pip install -r requirements.txt
    ```
 
 ### Running the Pipeline
