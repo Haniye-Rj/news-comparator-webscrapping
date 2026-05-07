@@ -12,7 +12,7 @@ How science can be a weapon against oppression and propaganda?
 ![Pandas](https://img.shields.io/badge/Data-Pandas-blue)
 
 ##  Project Overview
-**Abstract
+Abstract
 
 This research examines the divergence in news framing between state-controlled media (IRNA, PressTV) and independent media (Iran International, CNN).By utilizing an automated multi-engine web scraping pipeline comprising Selenium, Scrapy, BeautifulSoup, and Requests, the study identifies systematic thematic imbalances in how events are contextualized.A critical observation is that this report is dynamic ; because the analysis is run over multiple days, the results reflect a changing landscape of headlines, though the underlying narrative patterns remain consistent.
 
