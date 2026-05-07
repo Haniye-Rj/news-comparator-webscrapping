@@ -1,0 +1,151 @@
+LEGAL PROOF OF WEB SCRAPING PERMISSION IRNA:
+
+Website:
+https://www.irna.ir/en
+
+
+Public Accessibility:
+The website content used in this project was publicly accessible without authentication, login, or payment.
+
+Robots.txt Evidence:
+The website publicly exposes a robots.txt file:
+https://www.irna.ir/robots.txt
+
+Relevant robots.txt content:
+
+User-agent: *
+Disallow: /search
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /user/settings
+Disallow: /private
+Disallow: /comments
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Interpretation:
+The robots.txt configuration restricts crawlers only from specific private or administrative sections of the website.
+
+Public news content is not disallowed for crawlers, and the website explicitly allows crawling by Googlebot and Googlebot-News.
+
+The scraper used in this academic project accessed only publicly available news pages and did not access any restricted paths listed in robots.txt.
+
+The project did not:
+- bypass authentication,
+- circumvent security protections,
+- overload the server,
+- or collect private user information.
+
+Purpose:
+The scraping activity was conducted solely for educational and research purposes as part of a university project.
+
+LEGAL PROOF OF WEB SCRAPING PERMISSION IRANINT:
+
+User-Agent: Googlebot-news
+Allow: /
+
+User-Agent: Twitterbot
+Allow: /
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.iranintl.com/sitemap.xml
+
+Website:
+https://www.cnn.com/world/middle-east
+
+
+Public Accessibility:
+The website content used in this project was publicly accessible without authentication, login, or payment. The scraper only accessed publicly available news listing pages within the CNN World / Middle East section.
+
+
+Robots.txt Evidence:
+The website publicly exposes a robots.txt file:
+https://www.cnn.com/robots.txt
+
+Relevant robots.txt content:
+
+User-agent: *
+Disallow: /ads/
+Disallow: /api/
+Disallow: /search
+Disallow: /terms
+Disallow: /login
+Disallow: /beta/
+Disallow: /development
+Disallow: /webview/
+Disallow: /WEB-INF/
+Disallow: /subscriptions/video-docs
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://www.cnn.com/sitemap/news.xml
+Sitemap: https://www.cnn.com/sitemap/article.xml
+Sitemap: https://www.cnn.com/sitemap/section.xml
+
+
+Interpretation:
+The robots.txt configuration restricts crawlers from accessing specific system, API, advertising, and technical endpoints. It also explicitly blocks several AI-related crawlers from accessing the website.
+
+However, public news content remains accessible, and the website provides multiple sitemap files intended for structured indexing of news articles and sections.
+
+
+The scraper used in this academic project accessed only publicly available news pages (World / Middle East section) and did not access any restricted paths listed in robots.txt such as /api/, /ads/, /search, or system directories.
+
+
+The project did not:
+- bypass authentication,
+- circumvent security protections,
+- access blocked or restricted directories,
+- overload the server,
+- or collect private user information.
+
+
+Purpose:
+The scraping activity was conducted solely for educational and research purposes as part of a university project.
+
+
+Website:
+https://www.presstv.ir/
+
+
+Public Accessibility:
+The website content used in this project was publicly accessible without authentication, login, or payment. The scraper only accessed publicly available news pages through standard HTTP requests.
+
+
+Robots.txt Evidence:
+At the time of data collection, no accessible robots.txt file was available at:
+https://www.presstv.ir/robots.txt
+
+Therefore, crawler-specific access rules could not be retrieved from the website.
+
+
+Interpretation:
+Since no robots.txt file was accessible, scraping compliance was based on general web ethics and standard crawling practices. The project limited data collection to publicly available pages only and did not attempt to access restricted, private, or protected sections of the website.
+
+
+The scraper used in this academic project:
+- accessed only publicly available news content
+- did not bypass authentication or security mechanisms
+- did not attempt to access administrative, private, or restricted endpoints
+- did not overload or disrupt the website service
+- collected only textual information required for academic analysis
+
+
+Purpose:
+The scraping activity was conducted solely for educational and research purposes as part of a university project.
+
+
