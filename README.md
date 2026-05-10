@@ -79,7 +79,7 @@ Note: As headlines change daily, these percentages are subject to minor variatio
    ```
 2. Install dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ### Running the Pipeline
@@ -103,6 +103,7 @@ This will:
 ---
 
 ## Conclusion of Findings
-This project provides quantitative proof of **Selective Reality**. State media functions as a "periscope"—focusing intently on the flaws of external rivals while remaining statistically blind to the internal domestic crises. By exporting the "Right to Protest" narrative to Western cities, State media utilizes international news as a domestic blindfold.
+This project provides quantitative proof of **Selective Reality**. State media focusing intently on the flaws of external rivals while remaining statistically blind to the internal domestic crises. By exporting the "Right to Protest" narrative to Western cities, State media utilizes international news as a domestic blindfold.
+#FreeIran
 
 
